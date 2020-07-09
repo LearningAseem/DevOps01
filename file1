@@ -1,5 +1,9 @@
 hi
 trying to add file ontent from server to git repo
 
+push request successful!
+now going to try pull from local server
+
 pull request successful!
-now going to try fetch from local server
+
+now going to try fetch
